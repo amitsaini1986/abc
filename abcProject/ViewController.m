@@ -18,14 +18,10 @@
     
     NSLog(@"this is varun bracnch");
     [super viewDidLoad];
-<<<<<<< HEAD
-    // Do any additional setup after loading the view, typically from a nib.
-=======
     NSLog(@"new changes");
     NSLog(@"new changes 2");
 
-    // Do any additional setup after loading the view, typically from a nib.f
->>>>>>> master
+ 
 }
 
 - (void)didReceiveMemoryWarning {
