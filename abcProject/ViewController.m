@@ -15,9 +15,11 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSLog(@"abc changes");
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"new changes");
+    NSLog(@"new changes 2");
+
+    // Do any additional setup after loading the view, typically from a nib.f
 }
 
 - (void)didReceiveMemoryWarning {
