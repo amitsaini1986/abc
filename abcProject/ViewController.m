@@ -16,10 +16,9 @@
 
 - (void)viewDidLoad {
     
-    NSLog(@"this is varun bracnch");
+    NSLog(@"Source tree demo Milan branch");
     [super viewDidLoad];
-    NSLog(@"Milan changes after merged with vinove");
-    NSLog(@"new changes 2");
+   
 
  
 }
