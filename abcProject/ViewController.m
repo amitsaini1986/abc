@@ -19,7 +19,7 @@
     NSLog(@"new changes");
     NSLog(@"new changes 2");
 
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view, typically from a nib.f
 }
 
 - (void)didReceiveMemoryWarning {
